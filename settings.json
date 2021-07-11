@@ -20,6 +20,7 @@
 			"showPanel": true
 		},
 		"sync-settings": {
+			"hiddenSettings": {},
 			"installLatestVersion": true,
 			"useOtherLocation": true
 		},
