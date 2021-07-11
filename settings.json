@@ -1,0 +1,33 @@
+{
+	"*": {
+		"core": {
+			"disabledPackages": [
+				"language-gfm"
+			],
+			"telemetryConsent": "no",
+			"themes": [
+				"one-dark-ui",
+				"Chromodynamics"
+			]
+		},
+		"exception-reporting": {
+			"userId": "22428b43-7ff0-4c89-9031-64c90c7ac59f"
+		},
+		"kite": {
+			"showWelcomeNotificationOnStartup": false
+		},
+		"linter-ui-default": {
+			"showPanel": true
+		},
+		"sync-settings": {
+			"installLatestVersion": true,
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/ikickhersir/Python39.git"
+		},
+		"welcome": {
+			"showOnStartup": false
+		}
+	}
+}
